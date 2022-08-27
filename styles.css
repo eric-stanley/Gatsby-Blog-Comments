@@ -56,7 +56,7 @@ main {
   --color-btn-primary-selected-bg: rgb(12, 12, 12);
   --color-btn-primary-selected-shadow: inset 0 1px 0 rgb(0 45 17 / 20%);
   --color-btn-primary-disabled-text: rgb(255 255 255 / 80%);
-  --color-btn-primary-disabled-bg: #94d3a2;
+  --color-btn-primary-disabled-bg: #656765;
   --color-btn-primary-disabled-border: rgb(27 31 36 / 15%);
   --color-fg-default: #24292f;
   --color-fg-muted: #57606a;
@@ -88,7 +88,7 @@ main {
 
   color-scheme: light;
   font-family: "Fira Sans", sans-serif;
-  border-radius: 0;
+  font-weight: bold;
 }
 
 main .pagination-loader-container {
